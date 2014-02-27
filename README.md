@@ -1,7 +1,7 @@
 Simple-SonarQube-XML-Project
 ========================
 
-Simple project containing a singular BPMN-XML-File to be analyzed using SonarQube XML Plugin
+Simple project containing two BPMN-XML-Files to be analyzed using SonarQube XML Plugin: SimpleProcess.bpmn and SimpleProcess-Violation.bpmn which violates the normative BPMN XML schema definitions.
 
 For a detailed description of the configuration and usage [see the blog post here](http://matthiasgeiger.wordpress.com/2014/02/26/sonarqube-tutorial-xml-plugin-setup-and-usage/ "SonarQube Tutorial: XML-Plugin – Setup and usage").
 
